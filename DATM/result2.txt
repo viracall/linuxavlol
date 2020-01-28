@@ -1,0 +1,6 @@
+Class			Cases			Classified
+
+1			557			557
+0			251			237
+
+Accuracy: 97.2173267327%

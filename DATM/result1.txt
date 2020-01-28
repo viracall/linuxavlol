@@ -1,0 +1,6 @@
+Class			Cases			Classified
+
+1			2154			2154
+0			1155			1122
+
+Accuracy: 98.6727198549%

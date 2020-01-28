@@ -1,0 +1,10 @@
+elf_entry long
+start_p_h int
+start_s_h int
+size_elf int
+size_p_h int
+num_p_h int
+size_s_h int
+num_s_h int
+s_h_strndx int
+class 1 0
